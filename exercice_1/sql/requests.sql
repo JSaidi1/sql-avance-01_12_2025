@@ -56,3 +56,5 @@ SELECT COUNT()
 FROM sql_avancee_exercice_1_schema.artists a
 	
 GROUP BY artist_id
+
+
